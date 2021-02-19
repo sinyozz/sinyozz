@@ -1,4 +1,6 @@
 ### Hi there 👋
+
+![gif from nerdy.dev](https://github.com/sinyozz/Bootstraptemplatewebsite.github.io/blob/main/gif/demoprofile.gif)
  
    Here is What I'm working on!
 
@@ -10,6 +12,4 @@
 - 📫 How to reach me: ... Twitter @sinyG3
 - 😄 Pronouns: ... Siny 
 - ⚡ Fun fact: ... I am 51% Native American
-
-![gif from nerdy.dev](https://github.com/sinyozz/Bootstraptemplatewebsite.github.io/blob/main/gif/demoprofile.gif)
 
