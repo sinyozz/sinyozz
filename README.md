@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**sinyozz/sinyozz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ...Front-End Development 
+- 🌱 I’m currently learning ... Java
+- 👯 I’m looking to collaborate on ... Flutter
+- 🤔 I’m looking for help with ... SEO
+- 💬 Ask me about ... E-commerce Web Design or Anything 
+- 📫 How to reach me: ... Twitter @sinyG3
+- 😄 Pronouns: ... Siny 
+- ⚡ Fun fact: ... I'am 51% Native American
+
