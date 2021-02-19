@@ -12,3 +12,4 @@
 - 📫 How to reach me: ... Twitter @sinyG3
 - 😄 Pronouns: ... Siny 
 - ⚡ Fun fact: ... I am 51% Native American
+[![animated](https://github.com/sinyozz/Bootstraptemplatewebsite.github.io/blob/main/gif/demoprofile.gif)
