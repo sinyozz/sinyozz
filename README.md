@@ -1,8 +1,6 @@
 ### Hi there 👋
-
-
-
-Here are some ideas to get you started:
+ 
+   Here is I'm working on!
 
 - 🔭 I’m currently working on ...Front-End Development 
 - 🌱 I’m currently learning ... Java
