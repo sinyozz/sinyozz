@@ -13,6 +13,6 @@
 - 😄 Pronouns: ... Siny 
 - ⚡ Fun fact: ... I am 51% Native American
 html { 
-  background:  url(https://github.com/sinyozz/Bootstraptemplatewebsite.github.io/blob/main/gif/demoprofile.gif) no-repeat center center fixed; 
+  background: ![gif from nerdy.dev](https://github.com/sinyozz/Bootstraptemplatewebsite.github.io/blob/main/gif/demoprofile.gif) no-repeat center center fixed; 
   background-size: cover;
 }
