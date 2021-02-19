@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... E-commerce Web Design or Anything 
 - 📫 How to reach me: ... Twitter @sinyG3
 - 😄 Pronouns: ... Siny 
-- ⚡ Fun fact: ... I'am 51% Native American
+- ⚡ Fun fact: ... I am 51% Native American
 
