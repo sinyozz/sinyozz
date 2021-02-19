@@ -11,3 +11,5 @@
 - 😄 Pronouns: ... Siny 
 - ⚡ Fun fact: ... I am 51% Native American
 
+![gif from nerdy.dev](https://github.com/sinyozz/Bootstraptemplatewebsite.github.io/blob/main/gif/demoprofile.gif)
+
