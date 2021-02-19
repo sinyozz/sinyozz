@@ -12,8 +12,7 @@
 - 📫 How to reach me: ... Twitter @sinyG3
 - 😄 Pronouns: ... Siny 
 - ⚡ Fun fact: ... I am 51% Native American
-<div class="fullscreen-bg">
-    <video loop muted autoplay poster="![gif from nerdy.dev](https://github.com/sinyozz/Bootstraptemplatewebsite.github.io/blob/main/gif/demoprofile.gif)" class="fullscreen-bg">
-   
-    </video>
-</div>
+html { 
+  background:  url(https://github.com/sinyozz/Bootstraptemplatewebsite.github.io/blob/main/gif/demoprofile.gif) no-repeat center center fixed; 
+  background-size: cover;
+}
