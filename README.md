@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 
-
--![Sample Gif](https://github.com/sinyozz/template_bug/blob/4a9b3217c1bae3537f82fc721776c8e6f59efac0/000cosmo-cute.gif)
  
+ ![Screenshot](https://github.com/sinyozz/template_bug/blob/4a9b3217c1bae3537f82fc721776c8e6f59efac0/000cosmo-cute.gif)
    Here is What I'm working on!
 
 - 👩‍💻 I’m currently working = Front-End Development and Bug🐛bounty🐱‍💻
