@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![gif from nerdy.dev](https://user-images.githubusercontent.com/51217784/129236824-e36a045b-af7d-4072-a432-7bb86671cdf9.gif)
+![gif from nerdy.dev](https://github.com/sinyozz/template_bug/blob/4a9b3217c1bae3537f82fc721776c8e6f59efac0/000cosmo-cute.gif)
  
    Here is What I'm working on!
 
