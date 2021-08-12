@@ -10,5 +10,5 @@
 - 💬 Ask me about ...e-commerce Web Design or Anything 
 - 📫 How to reach me: ...Twitter @sinyG3
 - 😄 Pronouns: ...Siny 
-- 🐶⚡ Fun fact:...Ozzy dog is my besty  
+- 🐶⚡ Fun fact:...Ozzy dog = besty  
 
