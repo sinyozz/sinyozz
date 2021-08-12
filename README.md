@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![gif from nerdy.dev](https://github.com/sinyozz/Bootstraptemplatewebsite.github.io/blob/main/gif/poo.gif)
+![gif from nerdy.dev](https://user-images.githubusercontent.com/51217784/129236824-e36a045b-af7d-4072-a432-7bb86671cdf9.gif)
  
    Here is What I'm working on!
 
