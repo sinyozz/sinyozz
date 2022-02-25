@@ -1,4 +1,4 @@
-![000cosmo-cute](https://gifimage.net/wp-content/uploads/2018/11/sad-pixel-gif-2.gif)
+![000cosmo-cute](https://64.media.tumblr.com/413c6015a4f310a182b0b7e1cbe8c767/801ba332f8cc2cb3-df/s540x810/c1776ffd29d3b8113ff0bb68b211640522cb8694.gifv)
 ### Hi there 👋
 
  
