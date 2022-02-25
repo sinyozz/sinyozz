@@ -1,4 +1,4 @@
-![000cosmo-cute](https://i.pinimg.com/originals/1d/13/93/1d1393b05869f4df206413d70c62274c.gif)
+![000cosmo-cute] <header>(https://i.pinimg.com/originals/1d/13/93/1d1393b05869f4df206413d70c62274c.gif)</header>
 ### Hi there 👋
 
  
