@@ -1,5 +1,5 @@
    <p align="center">
-  <img width="460" height="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBEq-RQFEU4hucfg_QezAYF8h6HiMr7WeHbrq88YVon0XYlgZ4MWrDk3wsDM4SDCcuDdo&usqp=CAU">
+  <img width="460" height="300" src="https://bebeamordor.com/wp-content/uploads/2020/01/totoro-gif.gif">
 </p>
 ### Hi there 👋
 
