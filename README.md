@@ -1,4 +1,4 @@
-![000cosmo-cute](https://i.pinimg.com/originals/2e/94/62/2e9462cb6e812987c9c05491b61f887e.gif)
+![000cosmo-cute](https://gifimage.net/wp-content/uploads/2018/11/sad-pixel-gif-2.gif)
 ### Hi there 👋
 
  
