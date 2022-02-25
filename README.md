@@ -1,4 +1,4 @@
-![000cosmo-cute](https://user-images.githubusercontent.com/51217784/129281813-03e64be5-193b-45c3-ad45-89efb5369d1a.gif)
+![000cosmo-cute](https://i.pinimg.com/originals/2e/94/62/2e9462cb6e812987c9c05491b61f887e.gif)
 ### Hi there 👋
 
  
