@@ -1,7 +1,7 @@
-![000cosmo-cute](http://pa1.narvii.com/6843/662106450dbb2063825cd8ae236e0682eee0cd90_00.gif)
-<img align="right" width="100" height="100" src="<img align="right" width="100" height="100" src="http://pa1.narvii.com/6843/662106450dbb2063825cd8ae236e0682eee0cd90_00.gif">
+
+<img align="right" width="100" height="100" src="<img align="right" width="100" height="100" src="http://pa1.narvii.com/6838/600c75fa66fdf3bd65b40d9088c3bab346c394e5_00.gif">
 ### Hi there 👋
-<img align="right" width="100" height="100" src="http://pa1.narvii.com/6843/662106450dbb2063825cd8ae236e0682eee0cd90_00.gif">
+<img align="right" width="100" height="100" src="http://pa1.narvii.com/6838/600c75fa66fdf3bd65b40d9088c3bab346c394e5_00.gif">
  
    
    Here is What I'm working on!
