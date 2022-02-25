@@ -1,4 +1,4 @@
-![000cosmo-cute](https://github.com/sinyozz/sinyozzzgithub.io/blob/master/header-sgb.mp4)
+![000cosmo-cute](https://github.com/sinyozz/sinyozz.github.io/blob/2a85869fe1292af1b1412cade367262422f643f0/images%202/header-sgb.mp4)
 ### Hi there 👋
 
  
