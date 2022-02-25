@@ -1,4 +1,4 @@
-![000cosmo-cute](https://data.whicdn.com/images/170648405/original.gif)
+![000cosmo-cute](https://data.whicdn.com/images/170648405/original.gif/header)
 ### Hi there 👋
 
  
