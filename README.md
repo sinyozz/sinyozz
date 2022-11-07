@@ -1,6 +1,6 @@
-  [![MasterHead](https://cdn.dribbble.com/users/1057045/screenshots/11109253/media/4138c8ef1cefe7b1dae3a86296c8830d.gif)](https://github.com/sinyozz.io)
-<h1 align="center">Hi 👋, I'm Siny Christensen</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+  [![MasterHead](https://s41660.pcdn.co/wp-content/uploads/2020/04/90-article-banner-2.gif)](https://rishavchanda.io)
+<h1 align="center">Hi 👋, I'm Siny C</h1>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/542979/screenshots/3000076/media/638a2d006b0699ecf7b569f6e0004cd6.gif">
 
 
