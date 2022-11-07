@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on **Front-End Developer**
+- 🔭 I’m currently working on **Front-End Development**
 
 - 🌱 I’m currently learning **APP Development**
 
