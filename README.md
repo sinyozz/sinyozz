@@ -1,5 +1,5 @@
   [![MasterHead](https://s41660.pcdn.co/wp-content/uploads/2020/04/90-article-banner-2.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Siny C</h1>
+<h1 align="center">Hi 👋, I'm Siny C.</h1>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/542979/screenshots/3000076/media/638a2d006b0699ecf7b569f6e0004cd6.gif">
 
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Front-End Development**
 
-- 🌱 I’m currently learning **APP Development**
+- 🌱 I’m currently learning **App Development**
 
 - 💬 Ask me about **E-Commerce, Software testing**
 
